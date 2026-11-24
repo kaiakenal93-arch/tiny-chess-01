@@ -20,3 +20,9 @@ Run it:
 ```
 MAKEFUN_ENV_URL=<env-url> python3 main.py
 ```
+
+## Book
+
+Opening book: 141 plies over the 6 practice games
+(21/26/19/26/23/26), 6/6 wins by checkmate in the local
+trial, practice Elo 2112.
